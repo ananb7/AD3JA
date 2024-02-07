@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>eventos</groupId>
-	<artifactId>EDTNBA_AD3_Eventos</artifactId>
+	<artifactId>NBA_AD3_Eventos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EDTNBA_AD3_Eventos</name>
+	<name>NBA_AD3_Eventos</name>
 	<description>Actividad 3, eventos, boot, jpa.security</description>
 	<properties>
 		<java.version>17</java.version>
